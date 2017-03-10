@@ -1,6 +1,6 @@
 ---
 title: TyDe '17
-layout: 2017
+layout: layout2017
 ---
 
 ## 2nd Workshop on Type-Driven Development (TyDe '17)

@@ -1,5 +1,5 @@
 ---
-title: TyDe '17
+title: TyDe Workshop
 layout: layouthome
 ---
 

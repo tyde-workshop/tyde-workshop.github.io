@@ -19,10 +19,9 @@ are using or exploring types as a means of program development.
 
 ## Steering committee
 
-The TyDe Workshop Steering Committee comprises three pairs of the previous TyDe Workshop co-chairs and three appointed
-members-at-large.
+The TyDe Workshop Steering Committee comprises three pairs of TyDe Workshop co-chairs and three appointed members-at-large.
 
-Each year, shortly after the date of the TyDe Workshop, the Steering Committee appoints two co-chairs for the next TyDe Workshop. The steering committee additionally appoints a new member-at-large to succeed the currently longest serving member-at-large. The co-chairs of the most recent TyDe Workshop and the member-at-large then join the Steering Committee, while the longest serving former co-chairs and member-at-large step down.
+Each year, shortly after the date of the TyDe Workshop, the Steering Committee appoints two co-chairs for the next TyDe Workshop. The steering committee additionally appoints a new member-at-large to succeed the currently longest serving member-at-large. The newly appointed co-chairs and the member-at-large then join the Steering Committee, while the longest serving former co-chairs and member-at-large step down.
 
 The chair of the Steering Committee is one of the two longest serving co-chairs.
 
@@ -43,4 +42,3 @@ Members-at-large
 
   * Fritz Henglein
   * Bruno Oliveira
-

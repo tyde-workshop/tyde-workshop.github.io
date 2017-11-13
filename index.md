@@ -32,7 +32,7 @@ Should there be vacancies within the steering committee, e.g. due to a member st
 PC co-chairs
 
  * James Chapman (TyDe 2016)
- * Wouter Swierstra (TyDe 2016)
+ * Wouter Swierstra (TyDe 2016) (chair)
  * Sam Lindley (TyDe 2017)
  * Brent Yorgey (TyDe 2017)
  * Richard Eisenberg (TyDe 2018)

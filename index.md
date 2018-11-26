@@ -38,7 +38,7 @@ PC co-chairs
  * Richard Eisenberg (TyDe 2018)
  * Niki Vazou (TyDe 2018)
  * David Darais (TyDe 2019)
- * Jeremy Gibbons (TyDe 2016)
+ * Jeremy Gibbons (TyDe 2019)
 
 Members-at-large
 

@@ -11,6 +11,10 @@ programs. Colocated with [ICFP](http://icfpconference.org/), this
 workshop brings together leading researchers and practitioners who
 are using or exploring types as a means of program development.
 
+## Upcoming workshops
+
+[2019, Berlin](https://icfp19.sigplan.org/home/tyde-2019)
+
 ## Previous workshops
 
 [2018, St Louis](https://icfp18.sigplan.org/track/tyde-2018)

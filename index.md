@@ -37,26 +37,29 @@ Should there be vacancies within the steering committee, e.g. due to a member st
 
 PC co-chairs
 
- * Sam Lindley (TyDe 2017) (chair)
- * Brent Yorgey (TyDe 2017)
- * Richard Eisenberg (TyDe 2018)
- * Niki Vazou (TyDe 2018)
- * David Darais (TyDe 2019)
- * Jeremy Gibbons (TyDe 2019)
+ * [Richard Eisenberg](https://richarde.dev/) (TyDe 2018)
+ * [Niki Vazou](https://nikivazou.github.io/) (TyDe 2018)
+ * [David Darais](http://david.darais.com/) (TyDe 2019)
+ * [Jeremy Gibbons](http://www.cs.ox.ac.uk/people/jeremy.gibbons/) (TyDe 2019)
+ * [James McKinna](http://homepages.inf.ed.ac.uk/jmckinna/) (TyDe 2020)
+ * [Cyrus Omar](http://people.cs.uchicago.edu/~comar/) (TyDe 2020)
 
 Members-at-large
 
- * Bruno Oliveira (end of term 2019)
- * Oleg Kiselyov (end of term 2020)
- * Daan Leijen (end of term 2021)
+ * [Oleg Kiselyov](http://okmij.org/ftp/) (end of term 2020)
+ * [Daan Leijen](https://www.microsoft.com/en-us/research/people/daan/) (end of term 2021)
+ * [Tom Schrijvers](https://people.cs.kuleuven.be/~tom.schrijvers/) (end of term 2022)
 
 ### Former members
 
 PC co-chairs
 
- * James Chapman (TyDe 2016)
- * Wouter Swierstra (TyDe 2016)
+ * [James Chapman](http://cs.ioc.ee/~james/) (TyDe 2016)
+ * [Wouter Swierstra](http://www.staff.science.uu.nl/~swier004/) (TyDe 2016)
+ * [Sam Lindley](http://homepages.inf.ed.ac.uk/slindley/) (TyDe 2017)
+ * [Brent Yorgey](http://ozark.hendrix.edu/~yorgey/) (TyDe 2017)
  
 Members-at-large
 
- * Fritz Henglein (end of term 2018)
+ * [Fritz Henglein](http://hjemmesider.diku.dk/~henglein/) (end of term 2018)
+ * [Bruno Oliveira](https://i.cs.hku.hk/~bruno/) (end of term 2019)

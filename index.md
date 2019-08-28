@@ -17,7 +17,7 @@ are using or exploring types as a means of program development.
 
 [2019, Berlin](https://icfp19.sigplan.org/home/tyde-2019) ([local copy](2019))
 
-[2018, St Louis](https://icfp18.sigplan.org/track/tyde-2018)
+[2018, St Louis](https://icfp18.sigplan.org/track/tyde-2018) ([local copy](2018))
 
 [2017, Oxford](https://icfp17.sigplan.org/track/tyde-2017-papers) ([local copy](2017))
 

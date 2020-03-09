@@ -44,7 +44,7 @@ PC co-chairs
  * [David Darais](http://david.darais.com/) (TyDe 2019)
  * [Jeremy Gibbons](http://www.cs.ox.ac.uk/people/jeremy.gibbons/) (TyDe 2019)
  * [James McKinna](http://homepages.inf.ed.ac.uk/jmckinna/) (TyDe 2020)
- * [Cyrus Omar](http://people.cs.uchicago.edu/~comar/) (TyDe 2020)
+ * [Cyrus Omar](http://web.eecs.umich.edu/~comar/) (TyDe 2020)
 
 Members-at-large
 

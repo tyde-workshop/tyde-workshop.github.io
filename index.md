@@ -13,6 +13,8 @@ are using or exploring types as a means of program development.
 
 ## Upcoming workshops
 
+[2020, Jersey City](https://icfp20.sigplan.org/home/tyde-2020)
+
 ## Previous workshops
 
 [2019, Berlin](https://icfp19.sigplan.org/home/tyde-2019) ([local copy](2019))

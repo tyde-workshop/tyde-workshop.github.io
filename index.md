@@ -52,7 +52,7 @@ Members-at-large
 
  * [Daan Leijen](https://www.microsoft.com/en-us/research/people/daan/) (end of term 2021)
  * [Tom Schrijvers](https://people.cs.kuleuven.be/~tom.schrijvers/) (end of term 2022)
- * [Zena M.Ariola](https://ix.cs.uoregon.edu/~ariola/) (end of term 2023)
+ * [Zena M. Ariola](https://ix.cs.uoregon.edu/~ariola/) (end of term 2023)
 
 ### Former members
 

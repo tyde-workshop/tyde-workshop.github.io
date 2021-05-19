@@ -7,13 +7,13 @@ layout: layouthome
 
 The workshop on Type-driven Development aims to show how static type
 information may be used effectively in the development of computer
-programs. Colocated with [ICFP](http://icfpconference.org/), this
+programs. Colocated with [ICFP](https://icfpconference.org/), this
 workshop brings together leading researchers and practitioners who
 are using or exploring types as a means of program development.
 
 ## Upcoming workshops
 
-TBA
+[2021, Daejon](https://icfp21.sigplan.org/home/TyDe-2021)
 
 ## Previous workshops
 
@@ -41,18 +41,18 @@ Should there be vacancies within the steering committee, e.g. due to a member st
 
 PC co-chairs
 
- * [Richard Eisenberg](https://richarde.dev/) (TyDe 2018)
- * [Niki Vazou](https://nikivazou.github.io/) (TyDe 2018)
  * [David Darais](http://david.darais.com/) (TyDe 2019)
  * [Jeremy Gibbons](http://www.cs.ox.ac.uk/people/jeremy.gibbons/) (TyDe 2019)
  * [James McKinna](http://homepages.inf.ed.ac.uk/jmckinna/) (TyDe 2020)
  * [Cyrus Omar](http://web.eecs.umich.edu/~comar/) (TyDe 2020)
+ * [Hsiang-Shang ‘Josh’ Ko](https://josh-hs-ko.github.io) (TyDe 2021)
+ * [Dominic Orchard](https://www.kent.ac.uk/computing/people/3074/orchard-dominic) (TyDe 2021)
 
 Members-at-large
 
- * [Oleg Kiselyov](http://okmij.org/ftp/) (end of term 2020)
  * [Daan Leijen](https://www.microsoft.com/en-us/research/people/daan/) (end of term 2021)
  * [Tom Schrijvers](https://people.cs.kuleuven.be/~tom.schrijvers/) (end of term 2022)
+ * [Zena M.Ariola](https://ix.cs.uoregon.edu/~ariola/) (end of term 2023)
 
 ### Former members
 
@@ -62,9 +62,12 @@ PC co-chairs
  * [Wouter Swierstra](http://www.staff.science.uu.nl/~swier004/) (TyDe 2016)
  * [Sam Lindley](http://homepages.inf.ed.ac.uk/slindley/) (TyDe 2017)
  * [Brent Yorgey](http://ozark.hendrix.edu/~yorgey/) (TyDe 2017)
+ * [Richard Eisenberg](https://richarde.dev/) (TyDe 2018)
+ * [Niki Vazou](https://nikivazou.github.io/) (TyDe 2018)
  
 Members-at-large
 
  * [Fritz Henglein](http://hjemmesider.diku.dk/~henglein/) (end of term 2018)
  * [Bruno Oliveira](https://i.cs.hku.hk/~bruno/) (end of term 2019)
+ * [Oleg Kiselyov](http://okmij.org/ftp/) (end of term 2020)
 

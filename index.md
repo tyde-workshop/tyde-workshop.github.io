@@ -59,12 +59,12 @@ Members-at-large
 
 PC co-chairs
 
- * [James Chapman](http://cs.ioc.ee/~james/) (TyDe 2016)
- * [Wouter Swierstra](http://www.staff.science.uu.nl/~swier004/) (TyDe 2016)
- * [Sam Lindley](http://homepages.inf.ed.ac.uk/slindley/) (TyDe 2017)
- * [Brent Yorgey](http://ozark.hendrix.edu/~yorgey/) (TyDe 2017)
- * [Richard Eisenberg](https://richarde.dev/) (TyDe 2018)
- * [Niki Vazou](https://nikivazou.github.io/) (TyDe 2018)
+ * [James Chapman](http://cs.ioc.ee/~james/) (2016)
+ * [Wouter Swierstra](http://www.staff.science.uu.nl/~swier004/) (2016)
+ * [Sam Lindley](http://homepages.inf.ed.ac.uk/slindley/) (2017)
+ * [Brent Yorgey](http://ozark.hendrix.edu/~yorgey/) (2017)
+ * [Richard Eisenberg](https://richarde.dev/) (2018)
+ * [Niki Vazou](https://nikivazou.github.io/) (2018)
 
 Members-at-large
 

@@ -5,17 +5,16 @@ layout: layouthome
 
 # Workshop on Type-driven Development (TyDe)
 
-The workshop on Type-driven Development aims to show how static type
-information may be used effectively in the development of computer
-programs. Colocated with [ICFP](https://icfpconference.org/), this
-workshop brings together leading researchers and practitioners who
-are using or exploring types as a means of program development.
+The workshop on Type-driven Development aims to show how static type information may be used effectively in the development of computer programs.
+Colocated with [ICFP](https://icfpconference.org), this workshop brings together leading researchers and practitioners who are using or exploring types as a means of program development.
 
-## Upcoming workshops
+## Upcoming workshop
 
-[2021, Daejon](https://icfp21.sigplan.org/home/TyDe-2021)
+[2022, Ljubljana](https://icfp21.sigplan.org/home/TyDe-2022)
 
 ## Previous workshops
+
+[2021, Daejeon](https://icfp21.sigplan.org/home/TyDe-2021) ([local copy](2021))
 
 [2020, Jersey City](https://icfp20.sigplan.org/home/tyde-2020) ([local copy](2020))
 
@@ -41,12 +40,14 @@ Should there be vacancies within the steering committee, e.g. due to a member st
 
 PC co-chairs
 
- * [David Darais](http://david.darais.com/) (TyDe 2019)
- * [Jeremy Gibbons](http://www.cs.ox.ac.uk/people/jeremy.gibbons/) (TyDe 2019)
- * [James McKinna](http://homepages.inf.ed.ac.uk/jmckinna/) (TyDe 2020)
- * [Cyrus Omar](http://web.eecs.umich.edu/~comar/) (TyDe 2020)
- * [Hsiang-Shang ‘Josh’ Ko](https://josh-hs-ko.github.io) (TyDe 2021)
- * [Dominic Orchard](https://www.kent.ac.uk/computing/people/3074/orchard-dominic) (TyDe 2021)
+ * [David Darais](http://david.darais.com/) (2019)
+ * [Jeremy Gibbons](http://www.cs.ox.ac.uk/people/jeremy.gibbons/) (2019)
+ * [James McKinna](http://homepages.inf.ed.ac.uk/jmckinna/) (2020)
+ * [Cyrus Omar](http://web.eecs.umich.edu/~comar/) (2020)
+ * [Hsiang-Shang ‘Josh’ Ko](https://josh-hs-ko.github.io) (2021)
+ * [Dominic Orchard](https://www.kent.ac.uk/computing/people/3074/orchard-dominic) (2021)
+ * [Nada Amin](http://namin.net) (2022)
+ * [Harley Eades III](https://metatheorem.org) (2022)
 
 Members-at-large
 
@@ -64,10 +65,9 @@ PC co-chairs
  * [Brent Yorgey](http://ozark.hendrix.edu/~yorgey/) (TyDe 2017)
  * [Richard Eisenberg](https://richarde.dev/) (TyDe 2018)
  * [Niki Vazou](https://nikivazou.github.io/) (TyDe 2018)
- 
+
 Members-at-large
 
  * [Fritz Henglein](http://hjemmesider.diku.dk/~henglein/) (end of term 2018)
  * [Bruno Oliveira](https://i.cs.hku.hk/~bruno/) (end of term 2019)
  * [Oleg Kiselyov](http://okmij.org/ftp/) (end of term 2020)
-

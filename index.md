@@ -51,7 +51,7 @@ Members-at-large
 
  * [Tom Schrijvers](https://people.cs.kuleuven.be/~tom.schrijvers/) (end of term 2022)
  * [Zena M. Ariola](https://ix.cs.uoregon.edu/~ariola/) (end of term 2023)
- * [Liam O'Conner](http://liamoc.net/) (end of term 2024)
+ * [Liam O'Connor](http://liamoc.net/) (end of term 2024)
 
 ### Former members
 

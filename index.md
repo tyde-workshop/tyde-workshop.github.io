@@ -40,10 +40,8 @@ Should there be vacancies within the steering committee, e.g. due to a member st
 
 PC co-chairs
 
- * [David Darais](http://david.darais.com/) (2019)
- * [Jeremy Gibbons](http://www.cs.ox.ac.uk/people/jeremy.gibbons/) (2019)
  * [James McKinna](http://homepages.inf.ed.ac.uk/jmckinna/) (2020)
- * [Cyrus Omar](http://web.eecs.umich.edu/~comar/) (2020)
+ * [Cyrus Omar](http://web.eecs.umich.edu/~comar/) (2020, SC Chair)
  * [Hsiang-Shang ‘Josh’ Ko](https://josh-hs-ko.github.io) (2021)
  * [Dominic Orchard](https://www.kent.ac.uk/computing/people/3074/orchard-dominic) (2021)
  * [Nada Amin](http://namin.net) (2022)
@@ -51,9 +49,9 @@ PC co-chairs
 
 Members-at-large
 
- * [Daan Leijen](https://www.microsoft.com/en-us/research/people/daan/) (end of term 2021)
  * [Tom Schrijvers](https://people.cs.kuleuven.be/~tom.schrijvers/) (end of term 2022)
  * [Zena M. Ariola](https://ix.cs.uoregon.edu/~ariola/) (end of term 2023)
+ * [Liam O'Conner](http://liamoc.net/) (end of term 2024)
 
 ### Former members
 
@@ -65,9 +63,13 @@ PC co-chairs
  * [Brent Yorgey](http://ozark.hendrix.edu/~yorgey/) (2017)
  * [Richard Eisenberg](https://richarde.dev/) (2018)
  * [Niki Vazou](https://nikivazou.github.io/) (2018)
+ * [David Darais](http://david.darais.com/) (2019)
+ * [Jeremy Gibbons](http://www.cs.ox.ac.uk/people/jeremy.gibbons/) (2019)
+
 
 Members-at-large
 
  * [Fritz Henglein](http://hjemmesider.diku.dk/~henglein/) (end of term 2018)
  * [Bruno Oliveira](https://i.cs.hku.hk/~bruno/) (end of term 2019)
  * [Oleg Kiselyov](http://okmij.org/ftp/) (end of term 2020)
+ * [Daan Leijen](https://www.microsoft.com/en-us/research/people/daan/) (end of term 2021)

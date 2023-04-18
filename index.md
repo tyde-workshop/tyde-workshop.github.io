@@ -28,9 +28,9 @@ Colocated with [ICFP](https://icfpconference.org), this workshop brings together
 
 ## Steering committee
 
-The TyDe Workshop steering committee comprises three pairs of TyDe Workshop co-chairs and three appointed members-at-large.
+The TyDe Workshop steering committee comprises three pairs of TyDe Workshop co-chairs and two appointed members-at-large.
 
-Each year, shortly after the date of the TyDe Workshop, the steering committee appoints two co-chairs for the next TyDe Workshop. The steering committee additionally appoints a new member-at-large to succeed the currently longest serving member-at-large. The newly appointed co-chairs and the member-at-large then join the steering committee, while the longest serving former co-chairs and member-at-large step down.
+Each year, shortly after the date of the TyDe Workshop, the steering committee appoints two co-chairs for the next TyDe Workshop. The steering committee additionally appoints a new member-at-large to succeed the currently longest serving member-at-large, if their two-year term is expiring. The newly appointed co-chairs and member-at-large then join the steering committee, while the longest serving former co-chairs and member-at-large step down.
 
 The chair of the steering committee is one of the two longest serving co-chairs.
 
@@ -49,7 +49,6 @@ PC co-chairs
 
 Members-at-large
 
- * [Tom Schrijvers](https://people.cs.kuleuven.be/~tom.schrijvers/) (end of term 2022)
  * [Zena M. Ariola](https://ix.cs.uoregon.edu/~ariola/) (end of term 2023)
  * [Liam O'Connor](http://liamoc.net/) (end of term 2024)
 

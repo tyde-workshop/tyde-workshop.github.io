@@ -10,9 +10,11 @@ Colocated with [ICFP](https://icfpconference.org), this workshop brings together
 
 ## Upcoming workshop
 
-[2022, Ljubljana](https://icfp22.sigplan.org/home/tyde-2022)
+[2023, Seattle](https://icfp23.sigplan.org/home/tyde-2023)
 
 ## Previous workshops
+
+[2022, Ljubljana](https://icfp22.sigplan.org/home/tyde-2022) ([local copy](2022))
 
 [2021, Daejeon](https://icfp21.sigplan.org/home/tyde-2021) ([local copy](2021))
 

@@ -10,9 +10,11 @@ Colocated with [ICFP](https://icfpconference.org), this workshop brings together
 
 ## Upcoming workshop
 
-[2023, Seattle](https://icfp23.sigplan.org/home/tyde-2023)
+2024, Milan
 
 ## Previous workshops
+
+[2023, Seattle](https://icfp23.sigplan.org/home/tyde-2023) ([local copy](2023))
 
 [2022, Ljubljana](https://icfp22.sigplan.org/home/tyde-2022) ([local copy](2022))
 
@@ -42,17 +44,17 @@ Should there be vacancies within the steering committee, e.g. due to a member st
 
 PC co-chairs
 
- * [James McKinna](http://homepages.inf.ed.ac.uk/jmckinna/) (2020)
- * [Cyrus Omar](http://web.eecs.umich.edu/~comar/) (2020, SC Chair)
- * [Hsiang-Shang ‘Josh’ Ko](https://josh-hs-ko.github.io) (2021)
+ * [Hsiang-Shang ‘Josh’ Ko](https://josh-hs-ko.github.io) (2021, SC Chair)
  * [Dominic Orchard](https://www.kent.ac.uk/computing/people/3074/orchard-dominic) (2021)
  * [Nada Amin](http://namin.net) (2022)
  * [Harley Eades III](https://metatheorem.org) (2022)
+ * [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/) (2023)
+ * [Pierre-Evariste Dagand](http://evr.ist/) (2023)
 
 Members-at-large
 
- * [Zena M. Ariola](https://ix.cs.uoregon.edu/~ariola/) (end of term 2023)
  * [Liam O'Connor](http://liamoc.net/) (end of term 2024)
+ * [Patricia Johann](https://compsci.appstate.edu/faculty-staff/dr-patricia-johann) (end of term 2026)
 
 ### Former members
 
@@ -66,7 +68,8 @@ PC co-chairs
  * [Niki Vazou](https://nikivazou.github.io/) (2018)
  * [David Darais](http://david.darais.com/) (2019)
  * [Jeremy Gibbons](http://www.cs.ox.ac.uk/people/jeremy.gibbons/) (2019)
-
+ * [James McKinna](http://homepages.inf.ed.ac.uk/jmckinna/) (2020)
+ * [Cyrus Omar](http://web.eecs.umich.edu/~comar/) (2020)
 
 Members-at-large
 
@@ -74,3 +77,4 @@ Members-at-large
  * [Bruno Oliveira](https://i.cs.hku.hk/~bruno/) (end of term 2019)
  * [Oleg Kiselyov](http://okmij.org/ftp/) (end of term 2020)
  * [Daan Leijen](https://www.microsoft.com/en-us/research/people/daan/) (end of term 2021)
+ * [Zena M. Ariola](https://ix.cs.uoregon.edu/~ariola/) (end of term 2023)

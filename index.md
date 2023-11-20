@@ -54,7 +54,7 @@ PC co-chairs
 Members-at-large
 
  * [Liam O'Connor](http://liamoc.net/) (end of term 2024)
- * [Patricia Johann](https://compsci.appstate.edu/faculty-staff/dr-patricia-johann) (end of term 2026)
+ * [Patricia Johann](https://compsci.appstate.edu/faculty-staff/dr-patricia-johann) (end of term 2025)
 
 ### Former members
 

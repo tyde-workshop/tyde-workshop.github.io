@@ -10,9 +10,11 @@ Colocated with [ICFP](https://icfpconference.org), this workshop brings together
 
 ## Upcoming workshop
 
-2024, Milan
+2025, Singapore
 
 ## Previous workshops
+
+[2024, Milan](https://icfp24.sigplan.org/home/tyde-2024) ([local copy](2024))
 
 [2023, Seattle](https://icfp23.sigplan.org/home/tyde-2023) ([local copy](2023))
 
@@ -44,17 +46,17 @@ Should there be vacancies within the steering committee, e.g. due to a member st
 
 PC co-chairs
 
- * [Hsiang-Shang ‘Josh’ Ko](https://josh-hs-ko.github.io) (2021, SC Chair)
- * [Dominic Orchard](https://www.kent.ac.uk/computing/people/3074/orchard-dominic) (2021)
- * [Nada Amin](http://namin.net) (2022)
+ * [Nada Amin](http://namin.net) (2022, SC chair)
  * [Harley Eades III](https://metatheorem.org) (2022)
  * [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/) (2023)
  * [Pierre-Evariste Dagand](http://evr.ist/) (2023)
+ * [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/) (2024)
+ * [Jesper Cockx](https://jesper.sikanda.be) (2024)
 
 Members-at-large
 
- * [Liam O'Connor](http://liamoc.net/) (end of term 2024)
  * [Patricia Johann](https://compsci.appstate.edu/faculty-staff/dr-patricia-johann) (end of term 2025)
+ * [Shin-Cheng Mu](https://scm.iis.sinica.edu.tw) (end of term 2026)
 
 ### Former members
 
@@ -70,6 +72,8 @@ PC co-chairs
  * [Jeremy Gibbons](http://www.cs.ox.ac.uk/people/jeremy.gibbons/) (2019)
  * [James McKinna](http://homepages.inf.ed.ac.uk/jmckinna/) (2020)
  * [Cyrus Omar](http://web.eecs.umich.edu/~comar/) (2020)
+ * [Hsiang-Shang ‘Josh’ Ko](https://josh-hs-ko.github.io) (2021)
+ * [Dominic Orchard](https://www.kent.ac.uk/computing/people/3074/orchard-dominic) (2021)
 
 Members-at-large
 
@@ -78,3 +82,4 @@ Members-at-large
  * [Oleg Kiselyov](http://okmij.org/ftp/) (end of term 2020)
  * [Daan Leijen](https://www.microsoft.com/en-us/research/people/daan/) (end of term 2021)
  * [Zena M. Ariola](https://ix.cs.uoregon.edu/~ariola/) (end of term 2023)
+ * [Liam O'Connor](https://liamoc.net/) (end of term 2024)

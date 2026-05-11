@@ -10,9 +10,11 @@ Colocated with [ICFP](https://icfpconference.org), this workshop brings together
 
 ## Upcoming workshop
 
-2025, Singapore
+[2026, Paris](2026)
 
 ## Previous workshops
+
+[2025, Singapore](https://icfp25.sigplan.org/home/tyde-2025)
 
 [2024, Milan](https://icfp24.sigplan.org/home/tyde-2024) ([local copy](2024))
 

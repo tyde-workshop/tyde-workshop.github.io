@@ -10,9 +10,11 @@ Colocated with [ICFP](https://icfpconference.org), this workshop brings together
 
 ## Upcoming workshop
 
-[2026, Paris](2026)
+2027, Nijmegen (TBC)
 
 ## Previous workshops
+
+[2026, Paris](2026)
 
 [2025, Singapore](https://icfp25.sigplan.org/home/tyde-2025)
 
@@ -48,17 +50,15 @@ Should there be vacancies within the steering committee, e.g. due to a member st
 
 PC co-chairs
 
- * [Nada Amin](http://namin.net) (2022, SC chair)
- * [Harley Eades III](https://metatheorem.org) (2022)
- * [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/) (2023)
- * [Pierre-Evariste Dagand](http://evr.ist/) (2023)
  * [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/) (2024)
  * [Jesper Cockx](https://jesper.sikanda.be) (2024)
+ * [András Kovács](https://andraskovacs.github.io/) (2025)
+ * [Yuting Wang](http://jhc.sjtu.edu.cn/~yutingwang/) (2025)
+ * [Tom Schrijvers](https://people.cs.kuleuven.be/~tom.schrijvers/) (2026)
 
 Members-at-large
-
- * [Patricia Johann](https://compsci.appstate.edu/faculty-staff/dr-patricia-johann) (end of term 2025)
  * [Shin-Cheng Mu](https://scm.iis.sinica.edu.tw) (end of term 2026)
+ * (open position)
 
 ### Former members
 
@@ -76,6 +76,10 @@ PC co-chairs
  * [Cyrus Omar](http://web.eecs.umich.edu/~comar/) (2020)
  * [Hsiang-Shang ‘Josh’ Ko](https://josh-hs-ko.github.io) (2021)
  * [Dominic Orchard](https://www.kent.ac.uk/computing/people/3074/orchard-dominic) (2021)
+ * [Nada Amin](http://namin.net) (2022, SC chair)
+ * [Harley Eades III](https://metatheorem.org) (2022)
+ * [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/) (2023)
+ * [Pierre-Evariste Dagand](http://evr.ist/) (2023)
 
 Members-at-large
 
@@ -85,3 +89,4 @@ Members-at-large
  * [Daan Leijen](https://www.microsoft.com/en-us/research/people/daan/) (end of term 2021)
  * [Zena M. Ariola](https://ix.cs.uoregon.edu/~ariola/) (end of term 2023)
  * [Liam O'Connor](https://liamoc.net/) (end of term 2024)
+ * [Patricia Johann](https://compsci.appstate.edu/faculty-staff/dr-patricia-johann) (end of term 2025)

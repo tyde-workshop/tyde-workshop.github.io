@@ -51,7 +51,7 @@ Should there be vacancies within the steering committee, e.g. due to a member st
 PC co-chairs
 
  * [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/) (2024)
- * [Jesper Cockx](https://jesper.sikanda.be) (2024)
+ * [Jesper Cockx](https://jesper.sikanda.be) (2024, SC chair)
  * [András Kovács](https://andraskovacs.github.io/) (2025)
  * [Yuting Wang](http://jhc.sjtu.edu.cn/~yutingwang/) (2025)
  * [Tom Schrijvers](https://people.cs.kuleuven.be/~tom.schrijvers/) (2026)
@@ -76,7 +76,7 @@ PC co-chairs
  * [Cyrus Omar](http://web.eecs.umich.edu/~comar/) (2020)
  * [Hsiang-Shang ‘Josh’ Ko](https://josh-hs-ko.github.io) (2021)
  * [Dominic Orchard](https://www.kent.ac.uk/computing/people/3074/orchard-dominic) (2021)
- * [Nada Amin](http://namin.net) (2022, SC chair)
+ * [Nada Amin](http://namin.net) (2022)
  * [Harley Eades III](https://metatheorem.org) (2022)
  * [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/) (2023)
  * [Pierre-Evariste Dagand](http://evr.ist/) (2023)

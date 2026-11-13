@@ -55,10 +55,12 @@ PC co-chairs
  * [András Kovács](https://andraskovacs.github.io/) (2025)
  * [Yuting Wang](http://jhc.sjtu.edu.cn/~yutingwang/) (2025)
  * [Tom Schrijvers](https://people.cs.kuleuven.be/~tom.schrijvers/) (2026)
+ * [Danielle Marshall](https://starsandspira.ls/) (2027)
+ * [Ornela Dardha](https://www.dcs.gla.ac.uk/~ornela/) (2027)
 
 Members-at-large
  * [Shin-Cheng Mu](https://scm.iis.sinica.edu.tw) (end of term 2026)
- * (open position)
+ * [Cyrus Omar](http://web.eecs.umich.edu/~comar/) (end of term 2028)
 
 ### Former members
 
